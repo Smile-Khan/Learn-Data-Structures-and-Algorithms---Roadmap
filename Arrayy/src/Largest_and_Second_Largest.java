@@ -38,6 +38,7 @@ public class Largest_and_Second_Largest {
                 max2 = num;
             }
         }
+
         return max1 + max2;
     }
 }
