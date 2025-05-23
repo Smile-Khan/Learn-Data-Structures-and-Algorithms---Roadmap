@@ -1,0 +1,44 @@
+import java.util.*;
+
+public class Main {
+
+    // Function to move all zeros to the end while maintaining the order of non-zero elements
+    public static void moveZeroes(int[] nums) {
+        int i = 0; // Pointer to place the next non-zero number
+
+        for (int j = 0; j < nums.length; j++) {
+            if (nums[j] != 0) {
+                nums[i] = nums[j];
+                i++;
+            }
+        }
+
+        // Fill the rest of the array with 0s
+        while (i < nums.length) {
+            nums[i] = 0;
+            i++;
+        }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        // Input array size
+        System.out.print("Enter the size of the array: ");
+        int n = sc.nextInt();
+
+        // Input array elements
+        int[] nums = new int[n];
+        System.out.println("Enter " + n + " integers (only 0s and non-zero integers):");
+        for (int i = 0; i < n; i++) {
+            nums[i] = sc.nextInt();
+        }
+
+        // Process
+        moveZeroes(nums);
+
+        // Output the result
+        System.out.println("Array after moving all 0s to the end:");
+        System.out.println(Arrays.toString(nums));
+    }
+}
