@@ -1,0 +1,37 @@
+import java.util.*;
+
+public class Solution {
+    public static List<Integer> findDuplicates(int[] nums) {
+        List<Integer> duplicates = new ArrayList<>();
+        
+        for (int i = 0; i < nums.length; i++) {
+            int index = Math.abs(nums[i]) - 1;
+            if (nums[index] < 0) {
+                duplicates.add(Math.abs(nums[i]));
+            } else {
+                nums[index] = -nums[index];
+            }
+        }
+
+        return duplicates;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        // Input: array length
+        System.out.print("Enter the size of the array: ");
+        int n = sc.nextInt();
+
+        // Input: array elements
+        int[] nums = new int[n];
+        System.out.println("Enter " + n + " integers (values between 1 and " + n + "):");
+        for (int i = 0; i < n; i++) {
+            nums[i] = sc.nextInt();
+        }
+
+        // Call and display result
+        List<Integer> result = findDuplicates(nums);
+        System.out.println("Duplicate elements: " + result);
+    }
+}
