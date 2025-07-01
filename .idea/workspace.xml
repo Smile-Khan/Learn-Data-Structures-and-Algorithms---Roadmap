@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b6fcea6-7ae0-4e82-bd6f-b1257cd5c9bc" name="Changes" comment="Removed unwanted files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Smile-Khan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Smile-Khan/Learn-Data-Structures-and-Algorithms---Roadmap.git&quot;,
+    &quot;accountId&quot;: &quot;49f03a6a-13b6-48d0-917d-09aa79331472&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uRcd3lVxOX6y5N35FerEd5BBia" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Difficulty_Rating_Order.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_Max_in_an_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest_and_Second_Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search_an_element_in_an_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Take_discount_or_Not.executor&quot;: &quot;Run&quot;,
+    &quot;Application.minAndMax.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Scratch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b6fcea6-7ae0-4e82-bd6f-b1257cd5c9bc" name="Changes" comment="" />
+      <created>1742214911373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742214911373</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Search_an_element_in_an_array">
+      <option name="closed" value="true" />
+      <created>1742216063869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742216063869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Search_an_element_in_an_array">
+      <option name="closed" value="true" />
+      <created>1742296483816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742296483817</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Our Chef has some students in his coding class who are practicing problems.">
+      <option name="closed" value="true" />
+      <created>1742648181175</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742648181175</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3 APPROACH SOLUTION">
+      <option name="closed" value="true" />
+      <created>1751379153475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751379153475</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Remove">
+      <option name="closed" value="true" />
+      <created>1751379937183</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751379937183</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removed unwanted files">
+      <option name="closed" value="true" />
+      <created>1751380156254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751380156254</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Search_an_element_in_an_array" />
+    <MESSAGE value="Our Chef has some students in his coding class who are practicing problems." />
+    <MESSAGE value="3 APPROACH SOLUTION" />
+    <MESSAGE value="Remove" />
+    <MESSAGE value="Removed unwanted files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unwanted files" />
+  </component>
+</project>
