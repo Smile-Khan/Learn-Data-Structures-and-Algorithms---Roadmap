@@ -1,8 +1,8 @@
-// QUESTION: Palindrome Sentence
-// LINK: https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1
+QUESTION: Palindrome Sentence
 
+LINK: https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1
 
-// SOLUTION : TWO POINTER 
+SOLUTION: TWO POINTER 
 
 class Solution {
     public boolean isPalinSent(String s) {
