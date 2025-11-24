@@ -1,7 +1,7 @@
-QUESTION: 407. Trapping Rain Water II
-LINK: https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-10-03
+// QUESTION: 407. Trapping Rain Water II
+// LINK: https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-10-03
 
-SOLUTION: BFS + Min-Heap (Priority Queue)
+// SOLUTION: BFS + Min-Heap (Priority Queue)
 
 class Solution {
     public int trapRainWater(int[][] heightMap) {
